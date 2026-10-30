@@ -1,0 +1,22 @@
+{
+  "name": "ExoTale iOS \u2014 Liquid Glass Manga & Manhwa Reader",
+  "short_name": "ExoTale",
+  "description": "Obsidian Liquid Glass Manga & Manhwa Reader with Smart Shelves & Live Global Comments",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06070B",
+  "theme_color": "#06070B",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
